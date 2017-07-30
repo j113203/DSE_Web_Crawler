@@ -1,0 +1,19 @@
+/**
+    DSE 課程學位狀態 v1.1
+    
+    作者: j113203 (Wong Ka Wa)
+    建立時間: 2017-07-11
+    
+    未經授權 , 不得轉載
+*/
+
+@import "marx.min.css";
+@import "kendo.common.min.css";
+@import "kendo.rtl.min.css";
+@import "kendo.default.min.css";
+@import "kendo.default.mobile.min.css";
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
